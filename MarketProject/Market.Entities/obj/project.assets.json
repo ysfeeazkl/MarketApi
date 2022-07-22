@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Market.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Market.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Market.Shared.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Market.Shared/1.0.0": {
+      "type": "project",
+      "path": "../Market.Shared/Market.Shared.csproj",
+      "msbuildProject": "../Market.Shared/Market.Shared.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Market.Shared >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\yusuf\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\GitHub\\MarketApi\\MarketProject\\Market.Shared\\Market.Shared.csproj": {
+              "projectPath": "D:\\GitHub\\MarketApi\\MarketProject\\Market.Shared\\Market.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

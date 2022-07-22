@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Market.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Market.Shared": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Market.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Market.Entities.dll": {}
+        }
+      },
+      "Market.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Market.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Market.Shared.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Market.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Market.Entities/Market.Entities.csproj",
+      "msbuildProject": "../Market.Entities/Market.Entities.csproj"
+    },
+    "Market.Shared/1.0.0": {
+      "type": "project",
+      "path": "../Market.Shared/Market.Shared.csproj",
+      "msbuildProject": "../Market.Shared/Market.Shared.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Market.Entities >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\yusuf\\.nuget\\packages\\": {}
@@ -33,7 +70,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\GitHub\\MarketApi\\MarketProject\\Market.Entities\\Market.Entities.csproj": {
+              "projectPath": "D:\\GitHub\\MarketApi\\MarketProject\\Market.Entities\\Market.Entities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
