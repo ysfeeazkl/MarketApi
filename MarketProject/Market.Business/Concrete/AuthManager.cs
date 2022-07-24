@@ -112,8 +112,8 @@ namespace Market.Business.Concrete
                     CustomerToekn = Mapper.Map<AccessToken>(customerToken)
                 });
             }
-
-
+            throw new NotFoundArgumentException(Messages.General.ValidationError(),
+               new Error("Lütfen e-posta adresinizi ve şifrenizi kontrol edin.", "EmailAddress & Password"));
         }
     }
 }

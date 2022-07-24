@@ -1,0 +1,17 @@
+D:\GitHub\MarketApi\MarketProject\Market.Data\bin\Debug\net6.0\Market.Data.deps.json
+D:\GitHub\MarketApi\MarketProject\Market.Data\bin\Debug\net6.0\Market.Data.dll
+D:\GitHub\MarketApi\MarketProject\Market.Data\bin\Debug\net6.0\Market.Data.pdb
+D:\GitHub\MarketApi\MarketProject\Market.Data\bin\Debug\net6.0\Market.Entities.dll
+D:\GitHub\MarketApi\MarketProject\Market.Data\bin\Debug\net6.0\Market.Shared.dll
+D:\GitHub\MarketApi\MarketProject\Market.Data\bin\Debug\net6.0\Market.Entities.pdb
+D:\GitHub\MarketApi\MarketProject\Market.Data\bin\Debug\net6.0\Market.Shared.pdb
+D:\GitHub\MarketApi\MarketProject\Market.Data\obj\Debug\net6.0\Market.Data.csproj.AssemblyReference.cache
+D:\GitHub\MarketApi\MarketProject\Market.Data\obj\Debug\net6.0\Market.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\MarketApi\MarketProject\Market.Data\obj\Debug\net6.0\Market.Data.AssemblyInfoInputs.cache
+D:\GitHub\MarketApi\MarketProject\Market.Data\obj\Debug\net6.0\Market.Data.AssemblyInfo.cs
+D:\GitHub\MarketApi\MarketProject\Market.Data\obj\Debug\net6.0\Market.Data.csproj.CoreCompileInputs.cache
+D:\GitHub\MarketApi\MarketProject\Market.Data\obj\Debug\net6.0\Market.Data.csproj.CopyComplete
+D:\GitHub\MarketApi\MarketProject\Market.Data\obj\Debug\net6.0\Market.Data.dll
+D:\GitHub\MarketApi\MarketProject\Market.Data\obj\Debug\net6.0\refint\Market.Data.dll
+D:\GitHub\MarketApi\MarketProject\Market.Data\obj\Debug\net6.0\Market.Data.pdb
+D:\GitHub\MarketApi\MarketProject\Market.Data\obj\Debug\net6.0\ref\Market.Data.dll

@@ -1,0 +1,12 @@
+D:\GitHub\MarketApi\MarketProject\Market.Shared\bin\Debug\net6.0\Market.Shared.deps.json
+D:\GitHub\MarketApi\MarketProject\Market.Shared\bin\Debug\net6.0\Market.Shared.dll
+D:\GitHub\MarketApi\MarketProject\Market.Shared\bin\Debug\net6.0\Market.Shared.pdb
+D:\GitHub\MarketApi\MarketProject\Market.Shared\obj\Debug\net6.0\Market.Shared.csproj.AssemblyReference.cache
+D:\GitHub\MarketApi\MarketProject\Market.Shared\obj\Debug\net6.0\Market.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\MarketApi\MarketProject\Market.Shared\obj\Debug\net6.0\Market.Shared.AssemblyInfoInputs.cache
+D:\GitHub\MarketApi\MarketProject\Market.Shared\obj\Debug\net6.0\Market.Shared.AssemblyInfo.cs
+D:\GitHub\MarketApi\MarketProject\Market.Shared\obj\Debug\net6.0\Market.Shared.csproj.CoreCompileInputs.cache
+D:\GitHub\MarketApi\MarketProject\Market.Shared\obj\Debug\net6.0\Market.Shared.dll
+D:\GitHub\MarketApi\MarketProject\Market.Shared\obj\Debug\net6.0\refint\Market.Shared.dll
+D:\GitHub\MarketApi\MarketProject\Market.Shared\obj\Debug\net6.0\Market.Shared.pdb
+D:\GitHub\MarketApi\MarketProject\Market.Shared\obj\Debug\net6.0\ref\Market.Shared.dll
