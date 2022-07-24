@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.Reflection;
 
-namespace Fahax.Shared.Extensions
+namespace MarketProject.Shared.Extensions
 {
     public static class EnumExtensions
     {

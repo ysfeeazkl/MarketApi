@@ -1,4 +1,4 @@
-﻿namespace Fahax.Shared.Entities.Abstract
+﻿namespace MarketProject.Shared.Entities.Abstract
 {
     public class DtoGetBase
     {

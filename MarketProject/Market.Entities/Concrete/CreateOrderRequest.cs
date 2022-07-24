@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Market.Entities.Concrete
 {
-    internal class CreateOrderRequest
+    public class CreateOrderRequest
     {
+        public Customer Customer { get; set; }
+        public int CustomerId{ get; set; }
+
+
     }
 }

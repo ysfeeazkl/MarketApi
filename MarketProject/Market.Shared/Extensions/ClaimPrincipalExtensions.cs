@@ -1,6 +1,6 @@
 ﻿using System.Security.Claims;
 
-namespace Fahax.Shared.Extensions
+namespace MarketProject.Shared.Extensions
 {
     public static class ClaimPrincipalExtensions
     {

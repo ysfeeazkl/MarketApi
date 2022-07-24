@@ -2,7 +2,7 @@
 using AutoMapper;
 using Market.Data.Concrete.EntityFramework.Context;
 
-namespace Fahax.Business.Utilities
+namespace MarketProject.Business.Utilities
 {
     public class ManagerBase
     {

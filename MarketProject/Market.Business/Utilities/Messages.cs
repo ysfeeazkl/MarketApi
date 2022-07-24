@@ -1,4 +1,4 @@
-﻿namespace Fahax.Business.Utilities
+﻿namespace MarketProject.Business.Utilities
 {
     public static class Messages
     {

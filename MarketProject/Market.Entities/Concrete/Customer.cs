@@ -1,4 +1,4 @@
-﻿using Fahax.Shared.Entities.Abstract;
+﻿using MarketProject.Shared.Entities.Abstract;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,9 +9,13 @@ namespace Market.Entities.Concrete
 {
     public class Customer:EntityBase<int>,IEntity
     {
-        public string Name { get; set; }
         public string EmailAddress { get; set; }
-        public string GSM { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public byte PhoneNumber { get; set; }
+        public byte[] PasswordSalt { get; set; }
+        public byte[] PasswordHash { get; set; }
+        public DateTime LastLogin { get; set; }
 
     }
 }

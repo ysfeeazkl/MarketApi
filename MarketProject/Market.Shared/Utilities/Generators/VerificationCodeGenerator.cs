@@ -1,4 +1,4 @@
-﻿namespace Fahax.Shared.Utilities.Generators
+﻿namespace MarketProject.Shared.Utilities.Generators
 {
     public static class VerificationCodeGenerator
     {

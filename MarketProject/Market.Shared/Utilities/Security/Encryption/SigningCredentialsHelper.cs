@@ -1,6 +1,6 @@
 ﻿using Microsoft.IdentityModel.Tokens;
 
-namespace Fahax.Shared.Utilities.Security.Encryption
+namespace MarketProject.Shared.Utilities.Security.Encryption
 {
     public class SigningCredentialsHelper
     {

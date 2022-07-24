@@ -1,6 +1,6 @@
-﻿using Fahax.Shared.Utilities.Results.ComplexTypes;
+﻿using MarketProject.Shared.Utilities.Results.ComplexTypes;
 
-namespace Fahax.Shared.Utilities.Results.Abstract
+namespace MarketProject.Shared.Utilities.Results.Abstract
 {
     public interface IResult
     {

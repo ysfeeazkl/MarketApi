@@ -1,12 +1,12 @@
-﻿using Fahax.Entities.Dtos.EmailDtos;
-using Fahax.Shared.Utilities.Results.Abstract;
+﻿
+using MarketProject.Shared.Utilities.Results.Abstract;
 
-namespace Fahax.Business.AbstractUtilities
+namespace MarketProject.Business.AbstractUtilities
 {
     public interface IMailService
     {
-        Task<IDataResult> SendEmail(EmailSendDto emailSendDto);
-        Task<IDataResult> SendLandingEmail(LandingEmailDto landingEmailDto);
+        Task<IDataResult> SendEmail();
+        Task<IDataResult> SendLandingEmail();
     }
 }
 

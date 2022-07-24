@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace Fahax.Shared.Utilities.Hashing
+namespace MarketProject.Shared.Utilities.Hashing
 {
     public class HashingHelper
     {

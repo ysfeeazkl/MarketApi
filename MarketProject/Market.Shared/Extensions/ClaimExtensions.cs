@@ -1,7 +1,7 @@
 ﻿using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 
-namespace Fahax.Shared.Extensions
+namespace MarketProject.Shared.Extensions
 {
     public static class ClaimExtensions
     {

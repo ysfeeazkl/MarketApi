@@ -1,4 +1,4 @@
-﻿namespace Fahax.Shared.Utilities.Results.ComplexTypes
+﻿namespace MarketProject.Shared.Utilities.Results.ComplexTypes
 {
     public enum ResultStatus
     {

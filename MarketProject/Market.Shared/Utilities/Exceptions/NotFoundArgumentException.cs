@@ -1,6 +1,6 @@
-﻿using Fahax.Shared.Entities.Concrete;
+﻿using MarketProject.Shared.Entities.Concrete;
 
-namespace Fahax.Shared.Utilities.Exceptions
+namespace MarketProject.Shared.Utilities.Exceptions
 {
     public class NotFoundArgumentException : Exception
     {

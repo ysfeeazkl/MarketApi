@@ -1,8 +1,8 @@
-﻿using Fahax.Shared.Entities.Concrete;
-using Fahax.Shared.Utilities.Exceptions;
+﻿using MarketProject.Shared.Entities.Concrete;
+using MarketProject.Shared.Utilities.Exceptions;
 using FluentValidation;
 
-namespace Fahax.Shared.Utilities.Validation.FluentValidation
+namespace MarketProject.Shared.Utilities.Validation.FluentValidation
 {
     public static class ValidationTool
     {

@@ -1,9 +1,9 @@
-﻿using Fahax.Shared.Utilities.Results.Abstract;
-using Fahax.Shared.Utilities.Results.ComplexTypes;
-using Fahax.Shared.Utilities.Results.Concrete;
+﻿using MarketProject.Shared.Utilities.Results.Abstract;
+using MarketProject.Shared.Utilities.Results.ComplexTypes;
+using MarketProject.Shared.Utilities.Results.Concrete;
 using Microsoft.AspNetCore.Http;
 
-namespace Fahax.Shared.Utilities.FileUploads
+namespace MarketProject.Shared.Utilities.FileUploads
 {
     public class FileUpload
     {

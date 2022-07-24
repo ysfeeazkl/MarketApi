@@ -1,4 +1,4 @@
-﻿namespace Fahax.Shared.Utilities.Security.Jwt
+﻿namespace MarketProject.Shared.Utilities.Security.Jwt
 {
     public class TokenOptions
     {

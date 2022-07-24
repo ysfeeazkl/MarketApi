@@ -1,7 +1,7 @@
-﻿using Fahax.Shared.Entities.ComplexTypes;
-using Fahax.Shared.Utilities.Results.Abstract;
+﻿using MarketProject.Shared.Entities.ComplexTypes;
+using MarketProject.Shared.Utilities.Results.Abstract;
 
-namespace Fahax.Shared.Utilities.Results.Concrete
+namespace MarketProject.Shared.Utilities.Results.Concrete
 {
     public class SuccessApiResult : ApiResult
     {

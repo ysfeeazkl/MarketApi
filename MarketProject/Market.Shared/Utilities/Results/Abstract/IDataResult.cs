@@ -1,4 +1,4 @@
-﻿namespace Fahax.Shared.Utilities.Results.Abstract
+﻿namespace MarketProject.Shared.Utilities.Results.Abstract
 {
     public interface IDataResult : IResult
     {

@@ -1,7 +1,7 @@
-﻿using Fahax.Business.AbstractUtilities;
+﻿using MarketProject.Business.AbstractUtilities;
 using NLog;
 
-namespace Fahax.Business.Utilities
+namespace MarketProject.Business.Utilities
 {
     public class LoggerManager : ILoggerService
     {

@@ -1,7 +1,7 @@
-﻿using Fahax.Shared.Utilities.Results.Abstract;
-using Fahax.Shared.Utilities.Results.ComplexTypes;
+﻿using MarketProject.Shared.Utilities.Results.Abstract;
+using MarketProject.Shared.Utilities.Results.ComplexTypes;
 
-namespace Fahax.Shared.Utilities.Results.Concrete
+namespace MarketProject.Shared.Utilities.Results.Concrete
 {
     public class Result : IResult
     {

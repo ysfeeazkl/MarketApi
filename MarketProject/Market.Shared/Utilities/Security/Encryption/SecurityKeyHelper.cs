@@ -1,7 +1,7 @@
 ﻿using Microsoft.IdentityModel.Tokens;
 using System.Text;
 
-namespace Fahax.Shared.Utilities.Security.Encryption
+namespace MarketProject.Shared.Utilities.Security.Encryption
 {
     public class SecurityKeyHelper
     {

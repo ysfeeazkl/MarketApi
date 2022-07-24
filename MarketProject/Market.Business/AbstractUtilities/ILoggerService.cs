@@ -1,4 +1,4 @@
-﻿namespace Fahax.Business.AbstractUtilities
+﻿namespace MarketProject.Business.AbstractUtilities
 {
     public interface ILoggerService
     {

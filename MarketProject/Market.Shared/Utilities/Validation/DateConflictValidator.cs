@@ -1,4 +1,4 @@
-﻿namespace Fahax.Shared.Utilities.Validation
+﻿namespace MarketProject.Shared.Utilities.Validation
 {
     public static class DateConflictValidator
     {

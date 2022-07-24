@@ -1,6 +1,6 @@
-﻿using Fahax.Shared.Utilities.Results.Abstract;
+﻿using MarketProject.Shared.Utilities.Results.Abstract;
 
-namespace Fahax.Business.AbstractUtilities
+namespace MarketProject.Business.AbstractUtilities
 {
     public interface IPhoneService
     {

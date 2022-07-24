@@ -1,4 +1,4 @@
-﻿namespace Fahax.Shared.Entities.ComplexTypes
+﻿namespace MarketProject.Shared.Entities.ComplexTypes
 {
     public enum HttpStatusCode
     {

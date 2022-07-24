@@ -1,4 +1,4 @@
-﻿namespace Fahax.Shared.Entities.Concrete
+﻿namespace MarketProject.Shared.Entities.Concrete
 {
     public class Error
     {
